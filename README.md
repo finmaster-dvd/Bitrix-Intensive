@@ -1,2 +1,2 @@
-# Bitrix Intensive 
-Y_LAB | 20.02.2024
+# Bitrix Intensive Y_LAB
+
