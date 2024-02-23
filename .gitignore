@@ -1,9 +1,9 @@
 ### Bitrix Intensive, OSPanel  ###
 # OSPanel2\domains\BitDev.loc
-..idea/
-.auth/
-.bitrix/
-.upload/
+.idea/
+auth/
+bitrix/
+upload/
 *.
 .*.
 *.ico
